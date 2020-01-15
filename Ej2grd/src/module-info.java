@@ -1,0 +1,2 @@
+module Ej2grd {
+}
